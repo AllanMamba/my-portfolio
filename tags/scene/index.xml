@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on TECH MANIA</title>
+    <link>https://gohugo-theme-anahugonke.pages.dev/tags/scene/</link>
+    <description>Recent content in scene on TECH MANIA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate><atom:link href="https://gohugo-theme-anahugonke.pages.dev/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project IV: Automated Penetration Testing Framework</title>
+      <link>https://gohugo-theme-anahugonke.pages.dev/post/chapter-4/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-anahugonke.pages.dev/post/chapter-4/</guid>
+      <description>Create an automated framework for conducting penetration tests on networks and applications to identify vulnerabilities and assess security posture.</description>
+    </item>
+    
+    <item>
+      <title>Project I: Threat Intelligence Platform</title>
+      <link>https://gohugo-theme-anahugonke.pages.dev/post/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-anahugonke.pages.dev/post/chapter-1/</guid>
+      <description>Develop a platform that aggregates and analyzes threat intelligence data from various sources to provide actionable insights on emerging cyber threats.</description>
+    </item>
+    
+  </channel>
+</rss>
